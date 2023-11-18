@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m Ankur
   
-- 👨‍💻 I’m currently working at [Policybazaar.ae](https://Policybazaar.ae/).
+- 👨‍💻 I’m currently working at [Policybazaar.ae](https://Policybazaar.ae/)
 
 - 🌱 I’m exploring **Asp.Net**
 

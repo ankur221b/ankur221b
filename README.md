@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Extra Details
 
-- 👋 Hi, I’m @ankur
+- 👋 Hi, I’m Ankur
 - 🌱 I’m currently learning to get better at Development & Competitive Programming
 - 📫 How to reach me: Via mail or LinkedIn
 

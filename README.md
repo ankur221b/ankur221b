@@ -16,11 +16,11 @@ You can click the Preview link to take a look at your changes.
   
 - 👨‍💻 I’m currently working at [Policybazaar.ae](https://Policybazaar.ae/)
 
-- 🌱 I’m exploring **Asp.Net**
+- 🌱 I’m exploring **.Net**
 
 - 📝 I write articles on [Medium](https://ankur221b.medium.com/)
 
-- 🌱 I’m currently learning to get better at Development & Competitive Programming
+- 🌱 I’m currently learning to get better at Development & Designing scalable systems
   
 - 📫 How to reach me: Via mail or LinkedIn
 
